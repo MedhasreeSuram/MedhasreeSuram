@@ -1,7 +1,7 @@
 <a href="https://github.com/MedhasreeSuram">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=435&lines=hey,+i'm+medhasree;cs+%40+georgia+tech+'30;data+eng+%C2%B7+software+%C2%B7+ai">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=hey,+i'm+medhasree;cs+%40+georgia+tech+'30;data+eng+%C2%B7+software+%C2%B7+ai">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=435&lines=hey%2C+i%27m+medhasree;cs+%40+georgia+tech+%2730;data+eng+%C2%B7+software+%C2%B7+ai">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=hey%2C+i%27m+medhasree;cs+%40+georgia+tech+%2730;data+eng+%C2%B7+software+%C2%B7+ai">
   </picture>
 </a>
 
